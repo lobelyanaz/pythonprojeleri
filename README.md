@@ -1,5 +1,5 @@
 # Cell Culture Project
-Simple Cell Counter app created with Qt Creator, IDLE.This project is designed to detect and count cells in biomedical images. It draws the contours of the cells on the uploaded image and displays the results in a graph.
+Simple Cell Counter app created with Qt Creator, IDLE. This project is designed to detect and count cells in biomedical images. It draws the contours of the cells on the uploaded image and displays the results in a graph.
 
 
 
@@ -22,6 +22,7 @@ Project is created with:
 * Matplotlib Backend (QtAgg) version: macosx
 * Python version: 3.12.4
 * Python version: /opt/anaconda3/bin/python
+*  You should use Python from Path to build and run this project.
 
 ## Setup
 To run the project without issues, install the following:
